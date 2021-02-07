@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace tomcMatijaKlaseIObjekti1
 {
-    class Bijelogoricno : Stablo
+    class Bijelogoricno:Stablo
     {
+        Bijelogoricno(bool opadajuListovi) 
+        {
+            OpadajuListovi = opadajuListovi;
+        }
     }
 }

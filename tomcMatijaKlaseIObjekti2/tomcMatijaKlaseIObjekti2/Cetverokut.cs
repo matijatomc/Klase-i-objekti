@@ -8,5 +8,9 @@ namespace tomcMatijaKlaseIObjekti2
 {
     class Cetverokut : GeometrijskiLik
     {
+        public Cetverokut()
+        {
+            BrojStranica = 4;
+        }
     }
 }

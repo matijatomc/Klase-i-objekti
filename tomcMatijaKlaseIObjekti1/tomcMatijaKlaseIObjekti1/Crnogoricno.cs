@@ -6,7 +6,11 @@ using System.Threading.Tasks;
 
 namespace tomcMatijaKlaseIObjekti1
 {
-    class Crnogoricno : Stablo
+    class Crnogoricno:Stablo
     {
+        Crnogoricno(bool opadajuListovi)
+        {
+            OpadajuListovi = opadajuListovi;
+        }
     }
 }

@@ -8,5 +8,9 @@ namespace tomcMatijaKlaseIObjekti2
 {
     class Trokut : GeometrijskiLik
     {
+        public Trokut()
+        {
+            BrojStranica = 3;
+        }
     }
 }

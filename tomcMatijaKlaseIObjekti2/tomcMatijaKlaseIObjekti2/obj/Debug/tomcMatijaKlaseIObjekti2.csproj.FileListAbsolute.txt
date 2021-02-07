@@ -1,0 +1,5 @@
+C:\Users\Matija\source\repos\tomcMatijaKlaseIObjekti2\tomcMatijaKlaseIObjekti2\bin\Debug\tomcMatijaKlaseIObjekti2.exe.config
+C:\Users\Matija\source\repos\tomcMatijaKlaseIObjekti2\tomcMatijaKlaseIObjekti2\bin\Debug\tomcMatijaKlaseIObjekti2.exe
+C:\Users\Matija\source\repos\tomcMatijaKlaseIObjekti2\tomcMatijaKlaseIObjekti2\bin\Debug\tomcMatijaKlaseIObjekti2.pdb
+C:\Users\Matija\source\repos\tomcMatijaKlaseIObjekti2\tomcMatijaKlaseIObjekti2\obj\Debug\tomcMatijaKlaseIObjekti2.exe
+C:\Users\Matija\source\repos\tomcMatijaKlaseIObjekti2\tomcMatijaKlaseIObjekti2\obj\Debug\tomcMatijaKlaseIObjekti2.pdb

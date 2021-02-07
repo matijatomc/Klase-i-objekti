@@ -9,7 +9,11 @@ namespace tomcMatijaKlaseIObjekti1
     class Stablo : Biljka
     {
         bool opadajuListovi;
+        public bool OpadajuListovi { get => opadajuListovi; set => opadajuListovi = value; }
 
-
+        Stablo(bool OpadajuLostovi)
+        {
+            this.opadajuListovi = OpadajuLostovi;
+        }
     }
 }

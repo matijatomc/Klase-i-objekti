@@ -10,8 +10,8 @@ namespace tomcMatijaKlaseIObjekti1
     {
         static void Main(string[] args)
         {
-            Bijelogoricno hrast = new Bijelogoricno();
-            Crnogoricno bor = new Crnogoricno();
+            Bijelogoricno hrast = new Bijelogoricno(true);
+            Crnogoricno bor = new Crnogoricno(false);
         }
     }
 }
